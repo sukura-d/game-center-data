@@ -6,15 +6,177 @@
     "time": "2026-06-10",
     "content": "讲解活三、冲四、双三等常见进攻技巧。",
     "tag": "教学",
-    "url": "https://www.bilibili.com"
+    "url": "https://www.bilibili.com",
+    "gameType": "gomoku"
   },
   {
     "id": 2,
-    "title": "本周棋类赛事看点",
+    "title": "本周五子棋赛事看点",
     "author": "游戏研究社",
     "time": "2026-06-10",
-    "content": "整理近期棋类赛事中的精彩对局。",
+    "content": "整理近期五子棋赛事中的精彩对局。",
     "tag": "赛事",
-    "url": "https://www.bilibili.com"
+    "url": "https://www.bilibili.com",
+    "gameType": "gomoku"
+  },
+  {
+    "id": 101,
+    "title": "象棋开局布局讲解",
+    "author": "象棋课堂",
+    "time": "2026-06-11",
+    "content": "从标准初始布局出发，讲解车马炮、士象将的位置关系，以及红黑双方开局常见思路。",
+    "tag": "象棋",
+    "url": "https://www.bilibili.com",
+    "gameType": "chess"
+  },
+  {
+    "id": 102,
+    "title": "中炮对屏风马实战分析",
+    "author": "棋局研究社",
+    "time": "2026-06-11",
+    "content": "围绕中炮对屏风马的典型阵型，分析双方出子节奏、攻防转换和关键兑子点。",
+    "tag": "实战",
+    "url": "https://www.bilibili.com",
+    "gameType": "chess"
+  },
+  {
+    "id": 103,
+    "title": "全国象棋公开赛战报",
+    "author": "赛事速递",
+    "time": "2026-06-12",
+    "content": "整理近期公开赛焦点对局，回顾强手对抗中的精彩中局和残局处理。",
+    "tag": "赛事",
+    "url": "https://www.bilibili.com",
+    "gameType": "chess"
+  },
+  {
+    "id": 104,
+    "title": "残局技巧教学",
+    "author": "残局训练营",
+    "time": "2026-06-12",
+    "content": "讲解常见残局的基本胜和判断，帮助玩家提升收官能力。",
+    "tag": "教学",
+    "url": "https://www.bilibili.com",
+    "gameType": "chess"
+  },
+  {
+    "id": 201,
+    "title": "围棋入门：什么是气",
+    "author": "围棋入门课",
+    "time": "2026-06-13",
+    "content": "介绍围棋中气的概念，说明上下左右空点如何影响棋子的存活。",
+    "tag": "入门",
+    "url": "https://www.bilibili.com",
+    "gameType": "go"
+  },
+  {
+    "id": 202,
+    "title": "围棋基础布局教学",
+    "author": "黑白棋社",
+    "time": "2026-06-13",
+    "content": "讲解星位、小目和边角布局思路，帮助初学者建立开局方向。",
+    "tag": "教学",
+    "url": "https://www.bilibili.com",
+    "gameType": "go"
+  },
+  {
+    "id": 203,
+    "title": "常见围棋死活题解析",
+    "author": "死活训练营",
+    "time": "2026-06-14",
+    "content": "选取基础死活题，分析眼位、气数和关键落点。",
+    "tag": "练习",
+    "url": "https://www.bilibili.com",
+    "gameType": "go"
+  },
+  {
+    "id": 204,
+    "title": "围棋提子技巧",
+    "author": "棋盘研究员",
+    "time": "2026-06-14",
+    "content": "通过局部战斗示例，讲解如何制造对方无气并完成提子。",
+    "tag": "技巧",
+    "url": "https://www.bilibili.com",
+    "gameType": "go"
+  },
+  {
+    "id": 205,
+    "title": "围棋职业赛事速览",
+    "author": "赛事观察",
+    "time": "2026-06-15",
+    "content": "回顾近期职业围棋赛事焦点，整理名局中的关键胜负点。",
+    "tag": "赛事",
+    "url": "https://www.bilibili.com",
+    "gameType": "go"
+  },
+  {
+    "id": 206,
+    "title": "围棋初学者常见错误",
+    "author": "围棋教室",
+    "time": "2026-06-15",
+    "content": "总结新手常见的贪吃、忽视补断、误判气数等问题，并给出改进建议。",
+    "tag": "入门",
+    "url": "https://www.bilibili.com",
+    "gameType": "go"
+  },
+  {
+    "id": 301,
+    "title": "贪吃蛇高分技巧",
+    "author": "休闲游戏研究所",
+    "time": "2026-06-13",
+    "content": "讲解如何利用边缘巡航、回字形路线和节奏控制提升得分。",
+    "tag": "技巧",
+    "url": "https://www.bilibili.com",
+    "gameType": "snake"
+  },
+  {
+    "id": 302,
+    "title": "如何避免撞墙",
+    "author": "网格训练营",
+    "time": "2026-06-13",
+    "content": "分析贪吃蛇常见撞墙原因，介绍提前转向和预留通道的方法。",
+    "tag": "教学",
+    "url": "https://www.bilibili.com",
+    "gameType": "snake"
+  },
+  {
+    "id": 303,
+    "title": "路线规划思路",
+    "author": "路线规划师",
+    "time": "2026-06-14",
+    "content": "从食物位置、蛇身长度和剩余空间三个角度讲解路线选择。",
+    "tag": "攻略",
+    "url": "https://www.bilibili.com",
+    "gameType": "snake"
+  },
+  {
+    "id": 304,
+    "title": "经典贪吃蛇发展史",
+    "author": "游戏档案馆",
+    "time": "2026-06-14",
+    "content": "回顾贪吃蛇从早期移动设备到现代休闲小游戏的发展过程。",
+    "tag": "科普",
+    "url": "https://www.bilibili.com",
+    "gameType": "snake"
+  },
+  {
+    "id": 305,
+    "title": "高分玩家经验分享",
+    "author": "SnakeMaster",
+    "time": "2026-06-15",
+    "content": "高分玩家分享中后期控场、避免自撞和稳定吃食物的经验。",
+    "tag": "经验",
+    "url": "https://www.bilibili.com",
+    "gameType": "snake"
+  },
+  {
+    "id": 306,
+    "title": "速度提升后的应对策略",
+    "author": "快节奏玩家",
+    "time": "2026-06-15",
+    "content": "当游戏速度提升后，如何减少误操作并保持安全路线。",
+    "tag": "进阶",
+    "url": "https://www.bilibili.com",
+    "gameType": "snake"
   }
 ]

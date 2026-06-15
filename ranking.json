@@ -2,16 +2,157 @@
   {
     "rank": 1,
     "name": "玩家A",
-    "score": 1200
+    "score": 1200,
+    "gameType": "gomoku"
   },
   {
     "rank": 2,
     "name": "玩家B",
-    "score": 980
+    "score": 980,
+    "gameType": "gomoku"
   },
   {
     "rank": 3,
     "name": "玩家C",
-    "score": 850
+    "score": 850,
+    "gameType": "gomoku"
+  },
+  {
+    "rank": 1,
+    "name": "王天一",
+    "score": 2800,
+    "gameType": "chess"
+  },
+  {
+    "rank": 2,
+    "name": "郑惟桐",
+    "score": 2760,
+    "gameType": "chess"
+  },
+  {
+    "rank": 3,
+    "name": "赵鑫鑫",
+    "score": 2700,
+    "gameType": "chess"
+  },
+  {
+    "rank": 1,
+    "name": "柯洁",
+    "score": 2920,
+    "gameType": "go"
+  },
+  {
+    "rank": 2,
+    "name": "申真谞",
+    "score": 2905,
+    "gameType": "go"
+  },
+  {
+    "rank": 3,
+    "name": "朴廷桓",
+    "score": 2860,
+    "gameType": "go"
+  },
+  {
+    "rank": 4,
+    "name": "辜梓豪",
+    "score": 2815,
+    "gameType": "go"
+  },
+  {
+    "rank": 5,
+    "name": "杨鼎新",
+    "score": 2790,
+    "gameType": "go"
+  },
+  {
+    "rank": 6,
+    "name": "李轩豪",
+    "score": 2768,
+    "gameType": "go"
+  },
+  {
+    "rank": 7,
+    "name": "党毅飞",
+    "score": 2742,
+    "gameType": "go"
+  },
+  {
+    "rank": 8,
+    "name": "范廷钰",
+    "score": 2725,
+    "gameType": "go"
+  },
+  {
+    "rank": 9,
+    "name": "连笑",
+    "score": 2708,
+    "gameType": "go"
+  },
+  {
+    "rank": 10,
+    "name": "芈昱廷",
+    "score": 2690,
+    "gameType": "go"
+  },
+  {
+    "rank": 1,
+    "name": "SnakeKing",
+    "score": 9800,
+    "gameType": "snake"
+  },
+  {
+    "rank": 2,
+    "name": "PythonSnake",
+    "score": 9400,
+    "gameType": "snake"
+  },
+  {
+    "rank": 3,
+    "name": "SpeedMaster",
+    "score": 9100,
+    "gameType": "snake"
+  },
+  {
+    "rank": 4,
+    "name": "FoodHunter",
+    "score": 8750,
+    "gameType": "snake"
+  },
+  {
+    "rank": 5,
+    "name": "FastMove",
+    "score": 8420,
+    "gameType": "snake"
+  },
+  {
+    "rank": 6,
+    "name": "GridHero",
+    "score": 8100,
+    "gameType": "snake"
+  },
+  {
+    "rank": 7,
+    "name": "SnakePro",
+    "score": 7860,
+    "gameType": "snake"
+  },
+  {
+    "rank": 8,
+    "name": "TopPlayer",
+    "score": 7520,
+    "gameType": "snake"
+  },
+  {
+    "rank": 9,
+    "name": "MazeRunner",
+    "score": 7200,
+    "gameType": "snake"
+  },
+  {
+    "rank": 10,
+    "name": "Champion",
+    "score": 7000,
+    "gameType": "snake"
   }
 ]
